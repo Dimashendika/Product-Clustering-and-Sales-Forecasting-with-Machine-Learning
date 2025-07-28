@@ -70,7 +70,7 @@ Key findings from the EDA include:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Scikit-learn (Linear Regression, KMeans)
